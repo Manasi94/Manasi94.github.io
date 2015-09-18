@@ -9,3 +9,7 @@
 .nav li {
   display: inline;
 }
+
+.nav .container{
+  color: black;
+}
